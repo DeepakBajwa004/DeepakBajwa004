@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me <p>masoomjaat861@gmail.com</p><br><br><br>
 <p align="center">
-    <a href="https://www.facebook.com/Deepak-Bajwa"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+    <a href="https://www.facebook.com/people/Deepak-Bajwa/pfbid026b5oBmhgABovtXCURZtiubsjE12nNKFc1MjGJFmVbyZ4pixLghSw4sqjeSwadGwCl/?mibextid=ZbWKwL"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/brokon_masoom"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.instagram.com/top_haryanvi_004/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/deepak-bajwa-b59913282/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
