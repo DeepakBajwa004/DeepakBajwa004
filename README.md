@@ -1,6 +1,6 @@
 ### Hi there 👋🏾  welcome to my Github!☁️
 <p align="center">
- <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+ <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </p>
 - 👋 I’m @DeepakBajwa004<br>
 - 👀 I’m interested in mobile app dovelopment<br>
